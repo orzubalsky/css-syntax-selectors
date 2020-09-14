@@ -1,20 +1,38 @@
 body{
-    color:brown;
+    margin: 0;
+    padding: 0;
+    color:rgb(70, 70, 70);
+     margin-top: 10%;
+     margin-bottom: 10%;
+     margin-left: 20%;
+     margin-right: 20%;
+    justify-content: center;
+    background-color: ivory;
+}
+
+p{
+    font-size: 120%;
+    line-height: 200%;
+}
+
+.in{
+    line-height: 300%;
+    border-bottom: 5px solid navy;
 }
 
 .head {
-    color: red;
+    font-size: 200%;
+    color: navy;
 }
 
 .quote{
-    color: grey;
+    color: blanchedalmond;
+    background-color: gray;
 }
 
 .quotenarrator {
-color: black;
+color: greenyellow;
+background-color: gray;
 
 }
 
-#intro p {
-    color: green;
-}
