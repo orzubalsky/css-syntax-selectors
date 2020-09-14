@@ -1,9 +1,19 @@
 body{
     color:brown;
+    font-family: "Press Start 2P", cursive;
+    margin: 10% 20%;
+    background:rgb(229, 244, 235);
 }
 
 h1{
     color:red;
+    background-color: rgba(255, 255, 255, 0.541);
+    padding:3% 0;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    padding:2% 0;
 }
 
 .quote{
@@ -16,5 +26,21 @@ h1{
 
 #intro p
 {
-    color:green;
+    color:green !important;
+    padding: 0;
+}
+
+p{
+    font-size: 0.8em;
+    line-height: 1.8em;
+}
+
+#intro{
+    margin: 10% 0;
+    padding:3% 5%;
+    border-style: solid;
+    border-color: gray;
+    border-width: .5px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.541);
 }
