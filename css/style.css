@@ -2,7 +2,19 @@ body{
     color: brown;
 }
 h1{
-    color: red;
+    color: white;
+    background-color: blueviolet;
+    font-size: 40px;
+}
+h2{
+    color: white;
+    font-size: 30px;
+    background-color:palegoldenrod;
+}
+h3{
+    color: white;
+    font-size: 20px;
+    background-color: plum;
 }
 .quote{
     color: gray;
@@ -12,4 +24,16 @@ color: black;
 }
 #intro p{
     color: green;
+}
+.redacted{
+    background-color: black;
+    color: black;
+}
+.important{
+    background-color: yellowgreen;
+    color: black;
+    line-height: 3em;
+    text-align: center;
+    border: double;
+    display: block;
 }
