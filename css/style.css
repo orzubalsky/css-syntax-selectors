@@ -1,19 +1,29 @@
 body{
     color:brown;
-    font-family: "Press Start 2P", cursive;
+
     margin: 10% 20%;
     background:rgb(229, 244, 235);
 }
 
 h1{
     color:red;
-    background-color: rgba(255, 255, 255, 0.541);
     padding:3% 0;
     text-align: center;
+    font-family: fairwater-deco-serif,sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 h2{
     text-align: center;
     padding:2% 0;
+    font-family: fairwater-open-serif,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h3{
+    font-family: fairwater-open-serif,sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .quote{
@@ -31,8 +41,11 @@ h2{
 }
 
 p{
-    font-size: 0.8em;
+    font-size: 1.2em;
     line-height: 1.8em;
+    font-family: mostra-nuova,sans-serif;
+    font-weight: 300;
+    font-style: normal;
 }
 
 #intro{
