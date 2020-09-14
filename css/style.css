@@ -7,7 +7,8 @@ body{
      margin-left: 20%;
      margin-right: 20%;
     justify-content: center;
-    background-color: ivory;
+    background-color: #EAE2B7;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p{
@@ -17,22 +18,22 @@ p{
 
 .in{
     line-height: 300%;
-    border-bottom: 5px solid navy;
+    border-bottom: 5px solid #003049;
+    
 }
 
 .head {
+    font-family: 'Lora', serif;
     font-size: 200%;
-    color: navy;
+    color: #003049;
 }
 
 .quote{
-    color: blanchedalmond;
-    background-color: gray;
+    color: #F77F00;
 }
 
 .quotenarrator {
-color: greenyellow;
-background-color: gray;
+color: #D62828;
 
 }
 
