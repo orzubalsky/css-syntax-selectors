@@ -1,19 +1,40 @@
 body{
-    color:brown;
+    color:papayawhip;
+    background-color:darkolivegreen;
+    margin: 300px;
+
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    display: inline-block;
 }
 
 h1{
-    color:red;
+    font-size: 65px;
+    color: papayawhip;  
+    background-color: tomato
+}
+
+h2{
+    font-size: 40px;;
+    color: tomato;
+}
+
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
 }
 
 .quote{
-    color:gray;
+    color: lightpink;
+   padding: 70 px;
 }
 
 .quote.narrator{
-    color:black;
+    color:lightpink;
 }
 
 #intro p{
-    color:green;
+    color:skyblue;
+    
 }
