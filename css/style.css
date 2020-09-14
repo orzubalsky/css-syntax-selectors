@@ -1,0 +1,20 @@
+body{
+    color:brown;
+}
+
+.head {
+    color: red;
+}
+
+.quote{
+    color: grey;
+}
+
+.quotenarrator {
+color: black;
+
+}
+
+#intro p {
+    color: green;
+}
