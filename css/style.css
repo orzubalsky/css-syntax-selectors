@@ -1,23 +1,41 @@
 body {
-    color: brown;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin-top:  10px;
 }
 
+p{
+    line-height: 1.5em;
+}
 h1 {
     color: red;
+    font-size: 25px;
+    font-weight: 500;
 }
 
 .quote {
-    color: gray;
+    color: greenyellow;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: black;
 }
 
 .quote.narrator{
     color: black;
+   opacity: inherit;
 }
 
 #intro p {
-    color: green;
+    color: blue;
+    font-size: 20px;
+    font-style: italic;
+    display: inline-block;
+    float: right;
+    
 }
 
 .super-important-omg{
     color: blue;
+    text-decoration: underline;
 }
