@@ -1,0 +1,15 @@
+body{
+    color:brown;
+}
+h1{
+    color:red;
+}
+.quote{
+    color:gray;
+}
+.quote.narrator{
+color:black;
+}
+#intro p{
+    color:green;
+}
